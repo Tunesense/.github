@@ -1,7 +1,7 @@
 # Tunesense
 Tunesense is a web based game where you can play alone or with your friends by correctly guessing the song's name/artist that you are hearing.
 
-### 🎮 [PLAY HERE](https://tunesense.diogomartino.com) 🎮
+### 🎮 [PLAY HERE](https://tunesense.diogomartino.run) 🎮
 
 ## Features
 * Powered by Spotify
